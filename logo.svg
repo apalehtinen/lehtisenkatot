@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220" role="img" aria-label="Lehtisen Katot logo">
+  <defs>
+    <linearGradient id="r" x1="0" x2="1">
+      <stop offset="0" stop-color="#b91c1c"/>
+      <stop offset="1" stop-color="#ef4444"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="220" rx="30" fill="#111827"/>
+  <path d="M64 124 L164 54 L264 124" fill="none" stroke="url(#r)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M94 126 H234 V172 H94 Z" fill="none" stroke="#f9fafb" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M118 146 H210" stroke="#ef4444" stroke-width="9" stroke-linecap="round"/>
+  <text x="315" y="96" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="900" fill="#f9fafb" letter-spacing="2">LEHTISEN</text>
+  <text x="315" y="154" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="900" fill="#ef4444" letter-spacing="3">KATOT</text>
+</svg>
